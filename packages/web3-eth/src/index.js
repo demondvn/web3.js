@@ -603,9 +603,14 @@ var Eth = function Eth() {
                     outputFormatter: formatter.outputBlockFormatter
                 },
                 'pendingTransactions': {
-                    subscriptionName: 'newPendingTransactions', // replace subscription with this name
+                    subscriptionName: 'newPendingTransactionsRaw', // replace subscription with this name
                     params: 0
-                },
+                }
+//                 ,'pendingTransactionsRaw': {
+//                     subscriptionName: 'newPendingTransactionsRaw', // replace subscription with this name
+//                     params: 0
+//                 }
+                ,
                 'logs': {
                     params: 1,
                     inputFormatter: [formatter.inputLogFormatter],
