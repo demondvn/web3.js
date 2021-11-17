@@ -1,6 +1,6 @@
 {
-    "name": "web3_custom_pending.js",
-    "version": "1.6.1",
+    "name": "web3.js",
+    "version": "1.5.0",
     "private": true,
     "description": "Ethereum JavaScript API wrapper repository",
     "license": "LGPL-3.0",

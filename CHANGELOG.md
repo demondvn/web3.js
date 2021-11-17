@@ -454,7 +454,7 @@ Released with 1.0.0-beta.37 code base.
 
 - Partially replace usage of [eth-lib](https://github.com/MaiaVictor/eth-lib) with [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-monorepo/tree/master/packages/util) (#4390)
 
-## [1.6.1]
+## [1.5.0]
 
 ### Added
 
@@ -474,7 +474,7 @@ Released with 1.0.0-beta.37 code base.
 
 ### Fixed
 
-- Fix 1.6.1 build size issue with removing static asset files (#4506)
+- Fix 1.5.0 build size issue with removing static asset files (#4506)
 - Correct `web3.rst` example in documentation (#4511)
 - Correct `BlockHeader` typing (`receiptRoot` -> `receiptsRoot`) (#4452)
 
