@@ -12,7 +12,7 @@
         "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
     },
     "types": "types/index.d.ts",
-    "main": "lib/index.js",
+    "main": "src/index.js",
     "dependencies": {
         "oboe": "2.1.5",
         "web3-core-helpers": "1.6.2"

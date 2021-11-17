@@ -12,7 +12,7 @@
     "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
   },
   "types": "types/index.d.ts",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "dependencies": {
     "eventemitter3": "4.0.4",
     "web3-core-helpers": "1.6.2",

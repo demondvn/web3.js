@@ -12,7 +12,7 @@
         "compile": "tsc -b tsconfig.json",
         "dtslint": "dtslint --localTs ../../node_modules/typescript/lib  types"
     },
-    "main": "lib/index.js",
+    "main": "src/index.js",
     "dependencies": {
         "content-hash": "^2.5.2",
         "eth-ens-namehash": "2.0.8",
