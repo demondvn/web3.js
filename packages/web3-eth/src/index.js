@@ -606,10 +606,10 @@ var Eth = function Eth() {
                     subscriptionName: 'newPendingTransactionsRaw', // replace subscription with this name
                     params: 0
                 }
-//                 ,'pendingTransactionsRaw': {
-//                     subscriptionName: 'newPendingTransactionsRaw', // replace subscription with this name
-//                     params: 0
-//                 }
+                // ,'pendingTransactionsRaw': {
+                //     subscriptionName: 'newPendingTransactionsRaw', // replace subscription with this name
+                //     params: 0
+                // }
                 ,
                 'logs': {
                     params: 1,
