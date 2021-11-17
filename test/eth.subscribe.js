@@ -63,7 +63,7 @@ var tests = [{
     firstResult: '0x1234',
     firstPayload: {
         method: "eth_subscribe",
-        params: ['newPendingTransactions']
+        params: ['newPendingTransactionsRaw']
     },
     secondResult: true,
     secondPayload: {
